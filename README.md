@@ -1,3 +1,3 @@
 # Rainbow-Song
 
-A song about rainbows int eh key of c major. 
+A song about rainbows int he key of c major. 
